@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**cichal/cichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alex
 
-Here are some ideas to get you started:
+## Prerequisites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* `Netflix` Technical Researcher
+
+## Installation
+
+* Email `cichal13@gmail.com` 
+
+
+## Running / Development
+
+* `Salt Lake City, Utah`
+
+## Further Reading / Useful Links
+
+* [Linkedin](https://www.linkedin.com/in/alexcich/)
+
